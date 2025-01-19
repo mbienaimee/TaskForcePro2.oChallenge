@@ -25,10 +25,11 @@ The **Personal Budget Manager** is a web application designed to help users effe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JacquelineTuyisenge/Budget-Manager.git
+   git clone https://github.com/mbienaimee/TaskForcePro2.oChallenge.git
    cd Budget-Manager
    npm install
    npm run dev
+   http://localhost:5173/budget
 
-# TaskForcePro2.oChallenge
+
 
